@@ -15,3 +15,5 @@ Datasets
 Libraries
 
     Scikit-Learn - A Python library for machine learning built on top of NumPy, SciPy, and matplotlib.
+    Numpy -  Array creation: NumPy provides functions for creating arrays of different shapes and sizes, including arrays filled with zeros, ones, constant values, and  arrays created from existing data.
+ Array operations: NumPy supports a variety of array operations, such as element-wise addition, subtraction, multiplication, and division, as well as more complex operations such as matrix multiplication and element-wise functions like exponential and logarithm.
